@@ -12,3 +12,4 @@ original codes from `Github` `arduino-nodejs-plotly-streaming`(https://github.co
 * missing `Plotly.js`
 * `Plotly.js` function: Plotly.plot -> Plotly.newPlot
 * `node` `socket.io` version
+* plotly [streaming plot](https://plotly.com/javascript/streaming/)
